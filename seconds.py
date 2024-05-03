@@ -13,7 +13,7 @@ def countdown_timer(hours, minutes, seconds):
         time.sleep(1)
         total_seconds -= 1
 
-    print("Time's up!")
+    print("Time's up!!")
 
 # Input for hours, minutes, and seconds in the format h:m:s
 time_input = input("Enter time in the format h:m:s (e.g., 0:0:0): ")
